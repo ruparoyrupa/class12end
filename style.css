@@ -1,0 +1,129 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"); 
+
+/* *{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+} */
+
+/* .box button{
+    padding: 20px 100px;
+    font-size: 25px;
+    display: block;
+    margin: auto;
+    margin-top: 50px;
+    cursor: pointer;
+} */
+
+/* Age Calculator css */
+
+.card{
+    cursor:pointer ;
+}
+
+#name{
+    cursor: pointer;
+    border-color: cadetblue;
+    box-shadow: 2.5px 4.33px 30px 0 rgb(184, 238, 240);
+    background-color: skyblue;
+    font-size: 20px;
+    
+}
+
+#year{
+    background-color: rgb(207, 214, 253);
+    box-shadow: 2.5px 4.33px 30px 0  rgb(207, 214, 253);
+    border-color: cadetblue;
+    font-size: 20px;
+}
+
+#agecheak{
+    font-size: 25px;
+    background-color: rgb(201, 235, 248);
+    box-shadow: 2.5px 4.33px 30px 0  rgb(201, 235, 248); 
+    border-radius: 5px;
+    border: 1px solid cadetblue;
+    box-shadow: royalblue;
+}
+
+/*  Marriage Calculator   css  */
+
+
+#name1{
+    cursor: pointer;
+    border-color: cadetblue;
+    box-shadow: 2.5px 4.33px 30px 0 rgb(184, 238, 240);
+    background-color: rgb(122, 187, 240);
+    font-size: 20px;
+    
+}
+
+#gender{
+    cursor: pointer;
+    border-color: cadetblue;
+    box-shadow: 2.5px 4.33px 30px 0 rgb(184, 238, 240);
+    background-color: rgb(248, 210, 152);
+    font-size: 18px;
+    
+}
+
+
+#year1{
+    
+    box-shadow: 2.5px 4.33px 30px 0  rgb(207, 214, 253);
+    border-color: cadetblue;
+    background-color: rgb(250, 192, 192);
+    font-size: 20px;
+}
+
+#marriagecheak{
+    font-size: 25px;
+    background-color:skyblue;;
+    box-shadow: 2.5px 4.33px 30px 0  rgb(227, 244, 250); 
+    border-radius: 5px;
+    border: 1px solid cadetblue;
+    box-shadow: royalblue;
+}
+
+
+/*  Currency Converter css */
+
+
+#ammount{
+    cursor: pointer;
+    border-color: cadetblue;
+    box-shadow: 2.5px 4.33px 30px 0 rgb(218, 242, 243);
+}
+
+
+#currency{
+    cursor: pointer;
+    border-color: cadetblue;
+    box-shadow: 2.5px 4.33px 30px 0 rgb(218, 242, 243);
+
+}
+
+.card-header h2{
+    color: rgb(245, 151, 145);
+    text-shadow: 20.5px 5.33px 40px 0 rgb(245, 133, 113);
+   
+}
+
+.currency-btn{
+    padding: 10px 100px;
+    font-size: 25px;
+    display: block;
+    margin: auto;
+    background-color: cornflowerblue;
+    
+}
+
+
+/* sign up form css */
+
+.sign-up-form{
+    padding: 5px 50px;
+    font-size: 25px;
+  
+   
+}
